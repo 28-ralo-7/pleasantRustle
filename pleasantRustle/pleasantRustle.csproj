@@ -321,6 +321,7 @@
     <Resource Include="agents\agent_97.png" />
     <Resource Include="agents\agent_98.png" />
     <Resource Include="agents\agent_99.png" />
+    <Content Include="Database\DBScript.sql" />
     <Content Include="Model1.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>Model1.edmx</DependentUpon>
